@@ -1,0 +1,20 @@
+
+产品目录
+
+智能手机系列：
+- iPhone 15 Pro：搭载A17 Pro芯片，6.1英寸Super Retina XDR显示屏，三摄系统，售价9999元
+- Samsung Galaxy S24：搭载Exynos 2400处理器，6.2英寸Dynamic AMOLED显示屏，50MP主摄，售价8999元
+
+笔记本电脑系列：
+- MacBook Pro 14英寸：M3 Pro芯片，16GB内存，512GB存储，售价16999元
+- Dell XPS 13：Intel Core i7-13700H，16GB内存，512GB SSD，售价12999元
+
+智能家居系列：
+- 小米空气净化器Pro：CADR值600m³/h，适用60-100平米，售价2999元
+- 智能音响HomePod mini：支持Siri，360度音效，售价749元
+
+服务政策：
+- 所有产品享有1年质保
+- 支持7天无理由退货
+- 免费上门安装服务
+- 24小时客服热线：400-123-4567
